@@ -5,4 +5,4 @@ Vulnerability discovered by Peter Adkins <peter.adkins@kernelpicnic.net>
 
 This is a python version of the script located at https://github.com/darkarnium/secpub/tree/master/NetGear/SOAPWNDR
 
-I wrote this in order to not have to install ruby on my python machines
+I wrote this as a learning experience
